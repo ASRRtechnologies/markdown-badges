@@ -1,5 +1,5 @@
 # ASRR Markdown Badges
-<img src ="https://img.shields.io/badge/Powered%20By-ASRR-red"/>
+<img src ="https://img.shields.io/badge/Powered%20By-ASRR-red?style=for-the-badge"/>
 
 A repo used to document markdown badges, used in ASRR repository readme's.
 
