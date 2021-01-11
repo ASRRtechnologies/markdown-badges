@@ -21,7 +21,10 @@ https://simpleicons.org/
 ## Companies
 | Name   | Badge        |   Usage |
 | :------------- |:-------------:| -----------: |
-| Travis | <img src="https://img.shields.io/badge/ASRR%20-%23000000.svg?&style=for-the-badge&logo=travis&logoColor=white"/> | `<img src="https://img.shields.io/badge/Travis%20-%23000000.svg?&style=for-the-badge&logo=travis&logoColor=white"/>` |
+| ASRR | <img src="https://img.shields.io/badge/ASRR%20-%23000000.svg?&style=for-the-badge&logo=&logoColor=white"/> | `<img src="https://img.shields.io/badge/ASRR%20-%23000000.svg?&style=for-the-badge&logo=&logoColor=white"/>` |
+| FORM | <img src="https://img.shields.io/badge/FORM%20-%23E30614.svg?&style=for-the-badge&logo=&logoColor=white"/> | `<img src="https://img.shields.io/badge/FORM%20-%23E30614.svg?&style=for-the-badge&logo=&logoColor=white"/>` |
+| VolkerWessels | <img src="https://img.shields.io/badge/VolkerWessels%20-%233F89BF.svg?&style=for-the-badge&logo=&logoColor=white"/> | `<img src="https://img.shields.io/badge/VolkerWessels%20-%233F89BF.svg?&style=for-the-badge&logo=&logoColor=white"/>` |
+| Heijmans | <img src="https://img.shields.io/badge/Heijmans%20-%23F3B902.svg?&style=for-the-badge&logo=&logoColor=white"/> | `<img src="https://img.shields.io/badge/Heijmans%20-%23F3B902.svg?&style=for-the-badge&logo=&logoColor=white"/>` |
 
 
 ## Frameworks/Tools
