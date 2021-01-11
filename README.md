@@ -18,7 +18,10 @@ Result if given to a true artist:
 You can use the following url for the logos and corresponding hex codes:
 https://simpleicons.org/
 
-
+## Companies
+| Name   | Badge        |   Usage |
+| :------------- |:-------------:| -----------: |
+| Travis | <img src="https://img.shields.io/badge/ASRR%20-%23000000.svg?&style=for-the-badge&logo=travis&logoColor=white"/> | `<img src="https://img.shields.io/badge/Travis%20-%23000000.svg?&style=for-the-badge&logo=travis&logoColor=white"/>` |
 
 
 ## Frameworks/Tools
@@ -28,3 +31,7 @@ https://simpleicons.org/
 |  NextJS   |   <img src="https://img.shields.io/badge/Next.JS%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/>   | `<img src="https://img.shields.io/badge/Next.JS%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/> ` |
 | Apache Maven | <img src="https://img.shields.io/badge/maven%20-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white"/> | `<img src="https://img.shields.io/badge/maven%20-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white"/>` |
 
+## CI/CD
+| Name   | Badge        |   Usage |
+| :------------- |:-------------:| -----------: |
+| Travis | <img src="https://img.shields.io/badge/Travis%20-%23000000.svg?&style=for-the-badge&logo=travis&logoColor=white"/> | `<img src="https://img.shields.io/badge/Travis%20-%23000000.svg?&style=for-the-badge&logo=travis&logoColor=white"/>` |
